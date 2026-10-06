@@ -1,0 +1,6 @@
+{
+  "name": "Ahorcado 8-Bit Arcade",
+  "description": "Juego del ahorcado retro estilo 8-bit con animaciones pixel art, sonido chiptune sintetizado, soporte multi-idioma (Español, Inglés, Alemán, Francés, Italiano, Chino, Ruso, Japonés, Portugués) con auto-detección, multijugador local y asíncrono, tienda de cosméticos y logros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
